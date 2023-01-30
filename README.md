@@ -18,8 +18,6 @@ I'd imagine people familiar with development or design enough to want to play so
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
-
 From the end-user's perspective: you can either chose to log in or not login. There would likely be some clear consequences for not logging in- perhaps you can't save your stats, and they can't show up on the leaderboard.
 
 Once this decision is made, the user can either 1. find a player to challenge or 2. challenge a random player.
